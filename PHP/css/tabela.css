@@ -1,0 +1,52 @@
+.nomes{
+
+	width:50%;
+	text-align:center;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 2px 3px #FFFF00;
+	padding: 10px; 
+	border:2px solid #FFFFFF;
+	color: white;
+
+}
+
+.cor {
+
+	width:50%;
+	text-align:center;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 2px 3px #FFFF00;
+	padding: 10px; 
+	border:2px solid #FFFFFF;
+	color: white;
+
+}
+
+h1{
+	font-size: 70px;
+	text-align: center;
+	color:  #403124 ;
+	text-shadow: 4px 4px 4px #DAA520;
+	font-weight: bold;
+	margin: 10px 180px;
+}
+#tabela{
+	margin-top: 20px;
+	margin-bottom: 50px;
+	margin-right: 40px;
+	margin-left: -220px;
+	display: inline-block;
+	width: 200px;
+	background-color: black;
+
+}
+
+
+
+
+
+	
